@@ -1,2 +1,2 @@
 # OOPS-mini-project
-OOPS Mini project-Bus reservation system
+OOPS Mini project Bus-reservation system
